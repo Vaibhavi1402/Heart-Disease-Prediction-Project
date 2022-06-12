@@ -1,2 +1,1 @@
-# Heart-Disease-Prediction-Project
-
+# Heart-disease-detection-project
